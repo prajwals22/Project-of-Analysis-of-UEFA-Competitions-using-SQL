@@ -1,5 +1,4 @@
 # Project-of-Analysis-of-UEFA-Competitions-using-SQL
-
 ## SQL Project
 
 UEFA Overview
