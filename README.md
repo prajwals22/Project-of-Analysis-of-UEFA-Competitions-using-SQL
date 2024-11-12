@@ -1,6 +1,6 @@
 # Project-of-Analysis-of-UEFA-Competitions-using-SQL
 
-## Analysis-of-UEFA-Competitions-Using-SQL
+## SQL Project
 
 UEFA Overview
 The Union of European Football Associations (UEFA) is the administrative and controlling body for European football. Founded on June 15, 1954, in Basel, Switzerland, UEFA is one of the six continental confederations of world football's governing body FIFA. It consists of 55 member associations, each representing a country in Europe. UEFA organizes and oversees some of the most prestigious football competitions globally, including:
